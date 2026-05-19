@@ -6,7 +6,7 @@ I'm a Technical Support Technician transitioning into Data Analytics and Data En
 I enjoy solving problems, working with technology, and turning data into meaningful insights. My background in technical support has strengthened my troubleshooting, analytical thinking, and customer-focused approach.
 
 ## 🎓 Currently Learning
-- 📊 Data Analysis through Bright Learning Mentorship
+- 📊 Data Analysis through Bright Learning
 - ⚙️ Data Engineering through ALX Africa
 - 🗄️ SQL and Database Management
 - 🐍 Python for Data Analytics
@@ -14,11 +14,9 @@ I enjoy solving problems, working with technology, and turning data into meaning
 - ☁️ Modern Data Pipelines and ETL Processes
 
 ## 💻 Technical Skills
-- SQL
+- SQL (Learning)
 - Python (Learning)
 - Microsoft Excel
-- Data Cleaning & Transformation
-- Data Visualization
 - Technical Support
 - Remote Troubleshooting
 - Microsoft Office Suite
@@ -28,7 +26,6 @@ I enjoy solving problems, working with technology, and turning data into meaning
 - Building Data Analytics Portfolio Projects
 - SQL Practice and Database Queries
 - Data Cleaning and Visualization Projects
-- GitHub Portfolio Development
 
 ## 🌱 Goals for 2026
 - Complete ALX Data Engineering Program
@@ -48,7 +45,6 @@ I enjoy solving problems, working with technology, and turning data into meaning
 - Troubleshooting Methodologies
 - SQL Learning Journey
 - Data Analytics Fundamentals
-- Career Transition into Tech
 
 ## ⚡ Fun Facts
 - I enjoy DIY projects and fixing things.
