@@ -1,7 +1,7 @@
 # Hi there, I'm Rudzani 👋
 
 ## 🚀 About Me
-I'm a Technical Support Technician transitioning into Data Analytics and Data Engineering.
+I'm a Technical Support Technician transitioning into Data Analytics and Data Engineering. 
 
 I enjoy solving problems, working with technology, and turning data into meaningful insights. My background in technical support has strengthened my troubleshooting, analytical thinking, and customer-focused approach.
 
