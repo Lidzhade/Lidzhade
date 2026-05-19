@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Rudzani 👋
 
-<!--
-**Lidzhade/Lidzhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Technical Support Technician transitioning into Data Analytics and Data Engineering.
 
-Here are some ideas to get you started:
+I enjoy solving problems, working with technology, and turning data into meaningful insights. My background in technical support has strengthened my troubleshooting, analytical thinking, and customer-focused approach.
 
-- 🔭 I’m currently working on Data Analytics 
-- 🌱 I’m currently learning via Bright Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Currently Learning
+- 📊 Data Analysis through Bright Learning Mentorship
+- ⚙️ Data Engineering through ALX Africa
+- 🗄️ SQL and Database Management
+- 🐍 Python for Data Analytics
+- 📈 Data Visualization and Reporting
+- ☁️ Modern Data Pipelines and ETL Processes
+
+## 💻 Technical Skills
+- SQL
+- Python (Learning)
+- Microsoft Excel
+- Data Cleaning & Transformation
+- Data Visualization
+- Technical Support
+- Remote Troubleshooting
+- Microsoft Office Suite
+- Freshdesk Ticket Management
+
+## 🔭 Current Projects
+- Building Data Analytics Portfolio Projects
+- SQL Practice and Database Queries
+- Data Cleaning and Visualization Projects
+- GitHub Portfolio Development
+
+## 🌱 Goals for 2026
+- Complete ALX Data Engineering Program
+- Build a strong Data Analytics Portfolio
+- Obtain industry-recognized certifications
+- Transition into a Data Analyst / Data Engineer role
+- Contribute to open-source projects
+
+## 🤝 Open to Collaborate On
+- Beginner-friendly Data Analytics Projects
+- SQL Projects
+- Data Visualization Dashboards
+- Data Engineering Learning Projects
+
+## 💬 Ask Me About
+- Technical Support
+- Troubleshooting Methodologies
+- SQL Learning Journey
+- Data Analytics Fundamentals
+- Career Transition into Tech
+
+## ⚡ Fun Facts
+- I enjoy DIY projects and fixing things.
+- I have an interest in Industrial Automation and PLC Systems.
+- I'm passionate about continuous learning and technology.
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/rudzani-lidzhade-27007ab6
+- GitHub: https://github.com/Lidzhade
+
+---
+⭐ Always learning, building, and improving one project at a time.
